@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="robots" content="noindex, nofollow" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<link rel="manifest" href="/tvl-shell-proto/manifest.webmanifest" />
+		<link rel="apple-touch-icon" href="/tvl-shell-proto/icons/icon-180.png" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-title" content="TVL 數據" />
+		<script>
+			// 原型專用：水合前先套用殼層變體與 ?safe=1，避免閃爍（邏輯見 src/lib/prototype/）
+			(function () {
+				var d = document.documentElement;
+				try {
+					var q = new URLSearchParams(location.search), s = localStorage;
+					var v = q.get('variant');
+					if (v === 'A' || v === 'B' || v === 'C') s.setItem('proto-shell-variant', v);
+					if (q.get('safe') !== null) s.setItem('proto-shell-safe', q.get('safe') === '1' ? '1' : '0');
+					d.dataset.shell = s.getItem('proto-shell-variant') || 'A';
+					if (s.getItem('proto-shell-safe') === '1') d.dataset.safe = '1';
+				} catch (e) {
+					d.dataset.shell = 'A';
+				}
+			})();
+		</script>
+		<meta name="text-scale" content="scale" />
+		<meta name="theme-color" media="(prefers-color-scheme: light)" content="#f3f4f9" />
+		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#12141f" />
+		<link href="/tvl-shell-proto/_app/immutable/entry/start.CQcGkQ10.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/entry/payload.DSmR2FwN.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/CRzLMJPS.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/C09CurkH.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/BxQRyS4u.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/BIaGSH86.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/CDDz9GpU.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/DcPXDUmP.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/entry/app.DewwfmAE.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/nodes/0.CntZl4Ii.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/DK3Fl9T5.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/CKLnKC1r.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/CnCcXTn7.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/Bg75znXG.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/Dg1fSLTx.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/Bf3eIOjI.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/B6N6wqMx.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/Be9vIt_q.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/nodes/3.BaY0AhTJ.js" rel="modulepreload">
+		<link href="/tvl-shell-proto/_app/immutable/chunks/DSmvWVN7.js" rel="modulepreload">
+		<!--12qhfyh--><link rel="icon" href="/tvl-shell-proto/favicon.svg"/><!----><!--19w013v--><meta name="description" content="台灣企業排球聯賽（TVL）球迷自製數據站：賽事比分、球隊與球員數據、賽前勝率"/> <meta property="og:type" content="website"/> <meta property="og:title" content="找不到這頁｜TVL 數據"/> <meta property="og:description" content="台灣企業排球聯賽（TVL）球迷自製數據站：賽事比分、球隊與球員數據、賽前勝率"/> <meta property="og:image" content="https://oldyi317.github.io/TVL-Analysis/og-image.png"/> <meta property="og:url" content="https://oldyi317.github.io/tvl-shell-proto/404"/> <meta name="twitter:card" content="summary_large_image"/><!----><title>找不到這頁｜TVL 數據</title>
+		<link href="/tvl-shell-proto/_app/immutable/assets/SegmentNav.BOe9SE5s.css" rel="stylesheet">
+		<link href="/tvl-shell-proto/_app/immutable/assets/0.BK2Xk2_E.css" rel="stylesheet">
+		<link href="/tvl-shell-proto/_app/immutable/assets/3.M_dzGy8z.css" rel="stylesheet">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents"><!--[--><!--[--><!--[0--><!--[--><header class="svelte-a8kxe2"><div class="top svelte-a8kxe2"><a class="brand svelte-a8kxe2" href="/tvl-shell-proto/">TVL 數據</a> <span class="note svelte-a8kxe2">非官方・資料整理自聯賽官網</span></div> <!--[-1--><!--]--></header><!----> <!--[-1--><!--]--><!----> <!--[-1--><!--]--><!----> <div class="probe svelte-13ryirr" aria-hidden="true"></div> <!--[-1--><!--]--><!----> <div class="wrap svelte-12qhfyh"><main class="svelte-12qhfyh"><!--[--><!--[-1--><!--[--><!----> <h1 class="svelte-15h4f4n">找不到這頁</h1> <a class="home svelte-15h4f4n" href="/tvl-shell-proto/">回首頁</a><!--]--><!--]--><!--]--><!----></main> <footer class="svelte-4jwo3w"><p class="svelte-4jwo3w">資料更新時間 <time datetime="2026-11-10T10:18:22+08:00">2026-11-10 10:18</time></p> <p class="svelte-4jwo3w">資料來源：TVL 企業排球聯賽官網與其技術統計系統。本站為球迷自製的非官方網站，數據僅供參考，與聯賽及各球隊無關。</p> <p class="svelte-4jwo3w">隊徽與球隊名稱之商標屬各球隊與聯賽所有。程式碼以 MIT 授權公開於 <a href="https://github.com/oldyi317/TVL-Analysis" target="_blank" rel="noopener" class="svelte-4jwo3w">GitHub</a>。</p> <p class="svelte-4jwo3w"><a href="https://github.com/oldyi317/TVL-Analysis/issues" target="_blank" rel="noopener" class="svelte-4jwo3w">回報錯誤或許願</a> · <a href="https://tvl.ctvba.org.tw/" target="_blank" rel="noopener" class="svelte-4jwo3w">TVL 官網</a></p></footer><!----></div><!--]--><!--]--><!--]--><!----> <!--[-1--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_13gkewr = {
+						base: "/tvl-shell-proto",
+						version: "1794277723735",
+						assets: "/tvl-shell-proto"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					import("/tvl-shell-proto/_app/immutable/entry/start.CQcGkQ10.js").then(async (kit) => {
+						kit.init(__sveltekit_13gkewr);
+						const app = await import("/tvl-shell-proto/_app/immutable/entry/app.DewwfmAE.js");
+						kit.start(app, element, {
+							node_ids: [0, 3],
+							data: [null,null],
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

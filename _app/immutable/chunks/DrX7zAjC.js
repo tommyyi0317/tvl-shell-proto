@@ -1,0 +1,1 @@
+var e={total_points:`總得分`,attack_points:`攻擊得分`,block_points:`攔網得分`,serve_points:`發球得分`,receive_excellent:`接發球到位`,dig_excellent:`防守到位`,set_excellent:`舉球到位`,attack_success_rate:`攻擊成功率`,serve_point_rate:`發球得分率`,receive_excellent_rate:`接發球到位率`,dig_excellent_rate:`防守到位率`,set_excellent_rate:`舉球到位率`,points_per_game:`場均得分`,blocks_per_set:`每局攔網`};export{e as t};

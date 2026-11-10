@@ -1,0 +1,1 @@
+import{c as e,d as t}from"./CnCcXTn7.js";import{t as n}from"./Be9vIt_q.js";function r(n){let r=e(n.season);if(r&&n.group&&t(n.group))return{season:r,group:n.group}}function i(e){return/^\d+$/.test(e)?Number(e):void 0}function a(e){let t=r(e);return t||n(404,`找不到這個賽季或組別`),t}export{a as n,r,i as t};
