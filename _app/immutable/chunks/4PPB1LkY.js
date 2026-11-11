@@ -1,1 +1,0 @@
-import{$ as e,F as t,N as n,j as r,q as i}from"./CDDz9GpU.js";var a=t(`<p role="note" class="svelte-1yuahyk"> </p>`);function o(t,o){var s=a(),c=e(s,!0);i(()=>r(c,o.text)),n(t,s)}export{o as t};

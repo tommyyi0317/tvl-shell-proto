@@ -1,0 +1,1 @@
+import{f as e}from"./DrOypFD6.js";var t=`tvl.group`;function n(){try{return typeof localStorage>`u`?null:localStorage}catch{return null}}function r(n){try{let r=n?.getItem(t);return r&&e(r)?r:`men`}catch{return`men`}}function i(e,n){try{e?.setItem(t,n)}catch{}}export{r as n,i as r,n as t};
