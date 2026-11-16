@@ -1,0 +1,1 @@
+var e=`offline-miss`;function t(e,t){return e&&t>18e5}function n(e,t,n,r){let i=t=>`${e}${encodeURIComponent(t.season)}/${t.group}`;return[...n.filter(e=>e.season===t).map(e=>`${i(e)}/matches/${e.game}/`),...r.filter(e=>e.season===t).map(e=>`${i(e)}/players/${e.player}/`)]}export{t as n,n as r,e as t};
