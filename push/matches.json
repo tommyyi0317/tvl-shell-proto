@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-19T10:13:07+08:00",
+ "generated_at": "2026-11-19T10:22:03+08:00",
  "cup_id": 22,
  "links": {
   "men": "/2026-27/men/matches/",
@@ -752,8 +752,8 @@
    "start_time": "16:00",
    "home": "義力營造",
    "away": "臺北鯨華",
-   "home_sets_won": null,
-   "away_sets_won": null,
+   "home_sets_won": 3,
+   "away_sets_won": 2,
    "home_win_prob": 0.47192671943326187
   },
   {
