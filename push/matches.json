@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-19T08:59:31+08:00",
+ "generated_at": "2026-11-19T09:50:44+08:00",
  "cup_id": 22,
  "links": {
   "men": "/2026-27/men/matches/",
@@ -125,8 +125,8 @@
    "start_time": "13:00",
    "home": "龍邁建設",
    "away": "臺北鳳凰",
-   "home_sets_won": null,
-   "away_sets_won": null,
+   "home_sets_won": 3,
+   "away_sets_won": 1,
    "home_win_prob": 0.43324485427983284
   },
   {
@@ -136,8 +136,8 @@
    "start_time": "15:00",
    "home": "新竹可利",
    "away": "三福產業",
-   "home_sets_won": null,
-   "away_sets_won": null,
+   "home_sets_won": 3,
+   "away_sets_won": 0,
    "home_win_prob": 0.551616538852242
   },
   {
@@ -741,8 +741,8 @@
    "start_time": "17:00",
    "home": "臺北鯨華",
    "away": "義力營造",
-   "home_sets_won": null,
-   "away_sets_won": null,
+   "home_sets_won": 3,
+   "away_sets_won": 1,
    "home_win_prob": 0.5280732805667381
   },
   {
