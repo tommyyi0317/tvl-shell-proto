@@ -1,0 +1,1 @@
+import{F as e,L as t,Q as n,Y as r,g as i,lt as a,y as o}from"./C2WvzhPo.js";import{t as s}from"./wy0RiJGj.js";var c=t(`<a class="card-link svelte-5647td"><!></a>`);function l(t,l){let u=i(l,`size`,3,`md`);var d=c(),f=n(d);s(f,{get match(){return l.match},get stage(){return l.stage},get size(){return u()}}),a(d),r(()=>o(d,`href`,l.href)),e(t,d)}export{l as t};

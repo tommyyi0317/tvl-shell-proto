@@ -1,1 +1,0 @@
-import{F as e,N as t,Q as n,j as r,q as i}from"./CKM9y9-9.js";var a=e(`<p role="note" class="svelte-1yuahyk"> </p>`);function o(e,o){var s=a(),c=n(s,!0);i(()=>r(c,o.text)),t(e,s)}export{o as t};

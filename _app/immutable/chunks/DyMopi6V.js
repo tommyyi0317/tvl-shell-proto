@@ -1,0 +1,1 @@
+import{F as e,L as t,N as n,Y as r,et as i}from"./C2WvzhPo.js";var a=t(`<p role="note" class="svelte-1yuahyk"> </p>`);function o(t,o){var s=a(),c=i(s,!0);r(()=>n(c,o.text)),e(t,s)}export{o as t};
