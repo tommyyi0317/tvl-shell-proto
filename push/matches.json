@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-19T10:31:18+08:00",
+ "generated_at": "2026-11-19T10:43:04+08:00",
  "cup_id": 22,
  "links": {
   "men": "/2026-27/men/matches/",
@@ -1239,6 +1239,105 @@
    "home_sets_won": null,
    "away_sets_won": null,
    "home_win_prob": 0.376
+  },
+  {
+   "group": "men",
+   "game_id": 9011,
+   "date": "2026-11-15",
+   "start_time": "10:00",
+   "home": "屏東台電",
+   "away": "雲林美津濃",
+   "home_sets_won": 3,
+   "away_sets_won": 0,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9012,
+   "date": "2026-11-15",
+   "start_time": "11:00",
+   "home": "雲林美津濃",
+   "away": "臺北鳳凰",
+   "home_sets_won": 3,
+   "away_sets_won": 1,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9013,
+   "date": "2026-11-15",
+   "start_time": "12:00",
+   "home": "臺北鳳凰",
+   "away": "新竹可利",
+   "home_sets_won": 3,
+   "away_sets_won": 2,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9014,
+   "date": "2026-11-15",
+   "start_time": "13:00",
+   "home": "新竹可利",
+   "away": "三福產業",
+   "home_sets_won": 3,
+   "away_sets_won": 0,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9015,
+   "date": "2026-11-15",
+   "start_time": "14:00",
+   "home": "三福產業",
+   "away": "龍邁建設",
+   "home_sets_won": 3,
+   "away_sets_won": 1,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9016,
+   "date": "2026-11-15",
+   "start_time": "15:00",
+   "home": "龍邁建設",
+   "away": "屏東台電",
+   "home_sets_won": 3,
+   "away_sets_won": 2,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9017,
+   "date": "2026-11-15",
+   "start_time": "16:00",
+   "home": "屏東台電",
+   "away": "臺北鳳凰",
+   "home_sets_won": 3,
+   "away_sets_won": 0,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9018,
+   "date": "2026-11-15",
+   "start_time": "17:00",
+   "home": "臺北鳳凰",
+   "away": "新竹可利",
+   "home_sets_won": 3,
+   "away_sets_won": 1,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9019,
+   "date": "2026-11-15",
+   "start_time": "18:00",
+   "home": "三福產業",
+   "away": "三福產業",
+   "home_sets_won": 3,
+   "away_sets_won": 2,
+   "home_win_prob": null
   }
  ]
 }
