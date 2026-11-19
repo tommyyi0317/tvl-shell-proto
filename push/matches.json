@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-19T09:50:44+08:00",
+ "generated_at": "2026-11-19T10:13:07+08:00",
  "cup_id": 22,
  "links": {
   "men": "/2026-27/men/matches/",
@@ -1195,6 +1195,50 @@
    "home_sets_won": null,
    "away_sets_won": null,
    "home_win_prob": 0.44296428268044746
+  },
+  {
+   "group": "women",
+   "game_id": 9004,
+   "date": "2026-11-19",
+   "start_time": "12:00",
+   "home": "義力營造",
+   "away": "臺北鯨華",
+   "home_sets_won": null,
+   "away_sets_won": null,
+   "home_win_prob": 0.5
+  },
+  {
+   "group": "men",
+   "game_id": 9001,
+   "date": "2026-11-19",
+   "start_time": "14:00",
+   "home": "屏東台電",
+   "away": "雲林美津濃",
+   "home_sets_won": null,
+   "away_sets_won": null,
+   "home_win_prob": 0.62
+  },
+  {
+   "group": "women",
+   "game_id": 9002,
+   "date": "2026-11-19",
+   "start_time": "16:30",
+   "home": "臺北鯨華",
+   "away": "新北中纖",
+   "home_sets_won": null,
+   "away_sets_won": null,
+   "home_win_prob": null
+  },
+  {
+   "group": "men",
+   "game_id": 9003,
+   "date": "2026-11-19",
+   "start_time": null,
+   "home": "臺北鳳凰",
+   "away": "新竹可利",
+   "home_sets_won": null,
+   "away_sets_won": null,
+   "home_win_prob": 0.376
   }
  ]
 }
